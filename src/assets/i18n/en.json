@@ -63,5 +63,18 @@
     "pro-user": "Account",
     "pro-login": "Login",
     "pro-register": "Register",
-    "pro-register-result": "Register Result"
+    "pro-register-result": "Register Result",
+    "dish-category": "dish-category",
+    "dish-item": "dish-item",
+    "dish-info": "dish-info",
+    "dish-style": "dish-style",
+    "dish-item-style": "dish-item-style",
+    "auth-ctrl": "auth-ctrl",
+    "dish-position-mgr": "dish-position-mgr",
+    "dish-menu-mgr": "dish-menu-mgr",
+    "dish-order-mgr": "dish-order-mgr",
+    "dish-print-mgr": "dish-print-mgr",
+    "dish-special-mgr": "dish-special-mgr",
+    "staff-commission-mgr": "staff-commission-mgr",
+    "staff-mgr": "staff-mgr"
 }

@@ -63,5 +63,18 @@
     "pro-user": "账户",
     "pro-login": "登录",
     "pro-register": "注册",
-    "pro-register-result": "注册结果"
+    "pro-register-result": "注册结果",
+    "dish-category": "菜品分类",
+    "dish-item": "菜品Item",
+    "dish-info": "菜品信息",
+    "dish-style": "菜品口味",
+    "dish-item-style": "菜品项-口味",
+    "auth-ctrl": "权限控制",
+    "dish-position-mgr": "选项菜品管理",
+    "dish-menu-mgr": "套餐菜品管理",
+    "dish-order-mgr": "订单管理（暂不支持）",
+    "dish-print-mgr": "打印管理（暂不支持）",
+    "dish-special-mgr": "活动管理（暂不支持）",
+    "staff-commission-mgr": "提成管理（暂不支持）",
+    "staff-mgr": "员工管理（暂不支持）"
 }
