@@ -30,8 +30,8 @@ export class UserLoginComponent implements OnDestroy {
         @Optional() @Inject(ReuseTabService) private reuseTabService: ReuseTabService,
         @Inject(DA_SERVICE_TOKEN) private tokenService: TokenService) {
         this.form = fb.group({
-            userName: [null, [Validators.required, Validators.minLength(5)]],
-            password: [null, Validators.required],
+            userName: ['admin', [Validators.required, Validators.minLength(5)]],
+            password: ['888888', Validators.required],
             mobile: [null, [Validators.required, Validators.pattern(/^1\d{10}$/)]],
             captcha: [null, [Validators.required]],
             remember: [true]
